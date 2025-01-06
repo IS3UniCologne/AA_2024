@@ -14,6 +14,7 @@ dependencies:
   - seaborn
   - scipy
   - scikit-learn
+  - skfda
   - graphviz
   - python-graphviz
   - py-xgboost
